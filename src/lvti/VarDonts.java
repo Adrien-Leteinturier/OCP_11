@@ -1,0 +1,16 @@
+package lvti;
+
+public class VarDonts {
+    public static void main(String[] args) {
+    }
+
+/*    // Invalid, cannot have a method return type of var
+    public static var returnThis(String[] args) {
+        return args;
+    }
+
+    // Invalid, cannot have method parameter of var
+    public static String[] returnThat(var args) {
+        return args;
+    }*/
+}
